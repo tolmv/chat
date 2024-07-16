@@ -28,7 +28,7 @@ A small Web Messenger with **[End-to-End](https://en.wikipedia.org/wiki/End-to-e
 git clone https://github.com/Flict-dev/Web-messenger.git
 docker compose up
 ```
-Go to http://localhost:8000/
+
 
 
 ## Quick Dev Start
